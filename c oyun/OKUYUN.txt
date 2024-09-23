@@ -1,0 +1,5 @@
+once top.exe calistirdiktan biraz sonra game.exe calistirin
+
+top.exe topu asagi dusurmeye calisirken,game.exe den sag,sol yon tuşları ve gerekli yerlerde space tusu ile topu en uste goturunuz.
+Top en alta duserse oyunu kaybedersiniz.
+
